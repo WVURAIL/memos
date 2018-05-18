@@ -21,7 +21,7 @@
 
 \section{Set Up}
 
-The Radio frequency test was conducted using a passive antenna clover (same design as HIRAX antennas). Amplification provided through p103 21dB amplifiers ( 2 amps each requiring a voltage of 5V. This voltage is through through a commercial battery pack. The real voltage drawn in 5.57V. The signal chain (in Figure \ref{fig:signalchain}) is connected by a 1'  RG402 SMA cable between the antenna and the first p103 amplifier and a 10' LMR-195 SMA between the 3dB attenuator and the spectrometer. 
+The Radio frequency test was conducted using a passive antenna clover (same design as HIRAX antennas). Amplification provided through p103 21dB amplifiers -- 2 amps each requiring a voltage of 5V. This voltage is supplied through a commercial battery pack. The  voltage drawn from the battery is 5.57V. The signal chain (in Figure \ref{fig:signalchain}) is connected by a 1'  RG402 SMA cable between the antenna and the first p103 amplifier and a 10' LMR-195 SMA between the 3dB attenuator and the spectrometer. 
 
 \begin{figure}[h]
 \centering
@@ -31,7 +31,7 @@ The Radio frequency test was conducted using a passive antenna clover (same desi
 \draw (0,0) to[amp,t=p103,l_=$+21\,$dB] 	++(1.5,0);
 \draw (1.5,0) to[amp,t=p103,l_=$+21\,$dB] 	++(1.5,0);
 \draw (3,0) to[generic,l_=$-4\,$dB] 	++(1.5,0);
-\draw (4.5,0) to[bandpass,l_=$410-785\,$MHz] 	++(3,0);
+\draw (4.5,0) to[bandpass,l_=$400-800\,$MHz] 	++(3,0);
 \draw (7.5,0) to[generic,l_=$-3\,$dB, -o] 	++(1.5,0) node[anchor=west]{Spectrometer};
 
 \end{circuitikz}
