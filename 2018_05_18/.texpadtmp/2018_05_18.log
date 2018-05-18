@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.13)  18 MAY 2018 16:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.13)  18 MAY 2018 17:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -743,9 +743,9 @@ Here is how much of TeX's memory you used:
  25584 multiletter control sequences out of 15000+600000
  9839 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,11n,69p,771b,799s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 61i,11n,69p,789b,799s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "/Users/pranav/Documents/Research Documentation/memos/2018_05_18/.texpadtmp/2018_05_18.pdf" (2 pages, 263375 bytes).
+Output written on "/Users/pranav/Documents/Research Documentation/memos/2018_05_18/.texpadtmp/2018_05_18.pdf" (2 pages, 263614 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
